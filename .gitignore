@@ -1,0 +1,15 @@
+# Entorno local
+venv_recomendador_spotify/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Datos personales y backups: no se comparten
+_privado_no_compartir/
+
+# Artefactos de MLflow (el notebook ya no los genera)
+mlflow.db
+mlruns/
+
+# Material de las clases (no es parte del TP)
+Clases/
